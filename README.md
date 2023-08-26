@@ -1,5 +1,6 @@
 # AppRestaurant
 
 <div>
-(https://github.com/rafsn/AppRestaurant/assets/86615648/91e0c30c-501f-4d8b-bd47-9c091d50db47)
+  ![Tela - App Restaurante](https://github.com/rafsn/AppRestaurant/assets/86615648/2d26f134-2cf0-4e4b-813a-da3222203b06)
 </div>
+
